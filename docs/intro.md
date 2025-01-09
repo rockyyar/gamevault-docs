@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## What is GameVault?
 
-GameVault is a selfhostable [source-available](https://wikipedia.org/wiki/Source-available_software) gaming platform for DRM-free videogames. It offers a Steam-like browsing and playing experience for you and your community to enjoy the game files stored **on your file server** in an organized way.
+GameVault is a selfhostable [source-available](https://wikipedia.org/wiki/Source-available_software) gaming platform for DRM-free videogames. [Game Vault 999](https://gamevault-999.com/) offers a Steam-like browsing and playing experience for you and your community to enjoy the game files stored **on your file server** in an organized way.
 
 You simply put your game files (installers, binaries, etc.) - from wherever you have them, into a folder and the server detects them, enriches them with metadata and offers a user-friendly interface to easily organize, download, install, and play your games. It even tracks your playtimes and progress.
 
